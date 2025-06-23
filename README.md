@@ -30,9 +30,50 @@ This is a simple machine learning web application built with **Streamlit** that 
 
 ![Image](https://github.com/user-attachments/assets/87372ec4-f824-4c6c-8afb-54fb21a3b1d0)
 
-<p align="center">
-  <img src="Images/demo_screenshot.png" alt="Loan App Demo Screenshot" width="600"/>
-</p>
+---
+## ⚙️ How to Run the App
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AshishSingh789/loan-approval-app.git
+   cd loan-approval-app
+2. **Run the app:**
+
+streamlit run app.py
+
+
 
 ---
+
+## 📂 Related Projects
+
+- 🎵 [BanTribe – A Music Collaboration Platform (Python & SQL)](https://github.com/ASHISHJK786/-BandTribe_a_Python-project)
+- 📊 [Social Media Sentiment Analysis (Power BI)](https://github.com/ASHISHJK786/Social_Media_Sentiment_Analysis)
+- 🧠 [Iris-Insight – AI Cataract Detection (Python, VGG19)](https://github.com/AshishSingh789/Iris-Insight-)
+
+## 📄 Certifications
+
+- [Python Programming – Kaggle (Jan 2023)](https://drive.google.com/file/d/1cJKWmn9qZ1-HsHV9zI5eDTjZ20_Uglkb/view?usp=sharing)
+- [SAP x Edunet Training (Apr 2024)](https://drive.google.com/file/d/1aSxp0hv2H00I82XSD2xWMaHBoWpVgEMA/view?usp=sharing)
+- [IBM Enterprise Data Science (Mar 2024)](https://drive.google.com/file/d/1qhZ1QEuNxbYu3HLf4SItG2Rwy73TWoNS/view?usp=sharing)
+- [PWC Virtual Internship – Forage (Jan 2024)](https://drive.google.com/file/d/1I64aJZYf-x4UFCIkBSYcNFgLXdjt6VZF/view?usp=sharing)
+- [Tata Virtual Internship – Forage (Jul 2024)](https://drive.google.com/file/d/14HOgI_iXnxupH3esOEIvVt_rO5uwyJgz/view?usp=sharing)
+
+---
+
+## 🙋‍♂️ About Me
+
+**Ashish Singh**  
+Aspiring Data Scientist | Skilled in Python, SQL, Power BI, and Data Analytics  
+📧 Email: Ashishvijaysinghjk789@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/ashish-singh-7955b5314](https://www.linkedin.com/in/ashish-singh-7955b5314)  
+💻 GitHub: [github.com/AshishSingh789](https://github.com/AshishSingh789)
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) — feel free to fork and build upon it.
+
+
 
