@@ -26,6 +26,10 @@ This is a simple machine learning web application built with **Streamlit** that 
 
 ## 🖥️ Demo
 
+![Image](https://github.com/user-attachments/assets/46fb0cc5-156f-44cf-9950-63afe5ed860e)
+
+![Image](https://github.com/user-attachments/assets/87372ec4-f824-4c6c-8afb-54fb21a3b1d0)
+
 <p align="center">
   <img src="Images/demo_screenshot.png" alt="Loan App Demo Screenshot" width="600"/>
 </p>
